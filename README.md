@@ -9,4 +9,4 @@ Press WIN + R and type "wf.msc". Press Windows Defender Firewall Properties and 
 
 If you used an online port checker and did the firewall configuration, you probably need something running on that port for it to get recognised. Run something like a CS server, or a minecraft server or even host a website and THEN try it.
 
-The program uses Open.NAT to connect with UPnP. Well that's all, you can go download the tool from the Releases tab.
+The program uses Open.NAT to connect with UPnP. Well that's all, you can go download the tool from the <a href="https://github.com/VadimCanPlay/upnphelper/releases/tag/1.0">Releases</a> tab or click the <a href="https://github.com/VadimCanPlay/upnphelper/releases/tag/1.0">Releases</a> text..
